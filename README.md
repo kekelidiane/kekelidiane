@@ -1,17 +1,17 @@
-# 👋 Hello ! Moi c'est Diane
+# 👋 Hi there, I'm Diana
 
 <p align="center">
-  👩‍💻 Back-end developer | Improving front-end | Community Manager
+  👩‍💻 Back-end developer | Improving front-end | Functional Analyst | Community Manager
 </p>
 
 ---
 
 ## 😉 About me
 
-📍 **Currently :** Application developer at *digi.job*
-🌱 **Learning :** Advanced front-end development with Next.js
-📌 **Interests :** Psyche - Business - Hairbraiding - DIY
-🤝 **Volunteering :** Women Tech Makers Lomé, GDG Lomé, Cloud Native Community Group Lomé, Tdev & NGOs (UJPOD, VICE TOGO)
+- 📍 **Currently :** Application developer at *digi.job*
+- 🌱 **Learning :** Advanced front-end development with Next.js
+- 📌 **Interests :** Psyche - Business - Hairbraiding - DIY
+- 🤝 **Volunteering :** Women Tech Makers Lomé, GDG Lomé, Cloud Native Community Group Lomé, Tdev & NGOs (UJPOD, VICE TOGO)
 
 ---
 
@@ -59,7 +59,7 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kekelidiane&theme=dark" alt="GitHub Streak Stats" />
 </p>
 
----
+
 
 <p align="center">
   <i>I am not passionate about programming, I am trying to find my path✨.</i> 
@@ -69,9 +69,11 @@
   <a href="mailto:dianeadonsou9@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+
   <a href="https://www.linkedin.com/in/kekeli-diane" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  
   <a href="https://linktr.ee/karuidesu" target="_blank">
     <img src="https://img.shields.io/badge/Site_Web-44CC11?style=for-the-badge" alt="Site Web" />
   </a>
